@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "いつかこの涙が",
+  "base_artist": "Little Glee Monster",
+  "createdAt": "2025-12-23T02:45:47.627446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつかこの涙が",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/01_いつかこの涙が_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつかこの涙が -Live on 2019.08.04-",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/02_いつかこの涙が_-Live_on_2019.08.04-_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつかこの涙が - Itsuka Kono Namidaga",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/03_いつかこの涙が_-_Itsuka_Kono_Namidaga_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつかこの涙が",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/04_いつかこの涙が_Little_Glee_Monster.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつかこの涙が -BRIGHT NEW WORLD<スペシャルオンデマンドライブ-",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/05_いつかこの涙が_-BRIGHT_NEW_WORLD_スペシャルオンデマンドライブ-_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつかこの涙が",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_いつかこの涙が_Little_Glee_Monster.txt"
+    }
+  ]
+}
